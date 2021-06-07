@@ -301,3 +301,10 @@ strong{
 
 .purple{
 	color: #6366f0 !important;}
+
+.counter{
+	display: flex;
+	justify-content: space-around;
+	font-size: 1em;
+	}
+
