@@ -138,7 +138,37 @@ a {
   transition: all 0.3s ease;
 }
 .hero{
+	display: none;
 	margin: 8vh 3vw;}
+#ad{
+
+}
+#ad1{
+	max-width:80vw;
+	overflow: hidden;
+	margin: 5vh auto;
+	border-radius: 15px; 
+}
+#ad2{
+	margin: 0vh auto 5vh;
+	padding: 2vw 1vw;
+	width: 60vw;
+	overflow: hidden;
+	background-color: white;
+	color: black;
+	border-radius: 15px;
+	text-align: center;
+}
+#ad2 a{
+	color:rgb(61, 61, 61);
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+#ad2.1{
+	background-color: white !important;
+	color: black !important;
+}
+
 #hero4{
 	font-size: 3em;
 	padding: 0px;
